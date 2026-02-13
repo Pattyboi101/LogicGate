@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# LogicGate output
+logicgate-report.sarif.json
+logicgate-fixes/
+
+# OS
+.DS_Store
+
+# Environment
+.env
+
+# Research docs
+*.docx
